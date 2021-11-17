@@ -1,5 +1,6 @@
 import React from 'react'
 
+// 자식 컴포넌트가 props로 이용해서 받는 거시다 !!
 export interface Information {
     name : string,
     phone : number,
